@@ -1,7 +1,5 @@
 # Hello-World-GitHub
-<<<<<<< HEAD
-# testing!
-=======
 
-Hello, I'm SunYuwei at CUHK CENG!
->>>>>>> 7785686d19fe6ba83e7a94aeee747c53e853786a
+Hello, I'm SunYuwei!
+
+My student number is 1155191355.
